@@ -1,0 +1,7 @@
+Current Features
+****************
+	• ACP option to limit lines for signatures
+
+Planned Features
+****************
+	• None

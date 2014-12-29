@@ -1,0 +1,10 @@
+services:
+    wolfsblvt.maximumsignaturelines.listener:
+        class: wolfsblvt\maximumsignaturelines\event\listener
+        arguments:
+            - @path_helper
+            - @template
+            - @user
+            - @config
+        tags:
+            - { name: event.listener }
