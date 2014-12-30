@@ -38,5 +38,5 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'MSL_LIMIT'						=> 'عدد سطور التوقيع',
-	'MSL_LIMIT_EXPLAIN'				=> 'العدد الأقصى للسطور في توقيع العضو. الصفر يعني سطور غير محدودة.',
+	'MSL_LIMIT_EXPLAIN'				=> 'حدد العدد الأقصى للسطور في توقيع العضو. الصفر يعني عدد غير محدود.',
 ));
