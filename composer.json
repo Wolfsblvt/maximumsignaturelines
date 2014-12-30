@@ -3,8 +3,8 @@
 	"type": "phpbb-extension",
 	"description": "Allows adminitrators to set a maximum line count for signatures, in addition to the existing character length, to prevent signatures with many lines.",
 	"homepage": "http://pinkes-forum.de/dev/find.php?ext=maximumsignaturelines",
-	"version": "1.0.0",
-	"time": "2014-12-29",
+	"version": "1.0.1",
+	"time": "2014-12-30",
 	"keywords": ["phpbb", "extension", "maximumsignaturelines", "acp", "settings"],
 	"license": "GPL-2.0",
 	"authors": [
