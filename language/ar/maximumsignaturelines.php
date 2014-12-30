@@ -37,7 +37,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'MAXIMUMSIGNATURELINES_EXT_NAME'		=> 'تحديد سطور التوقيع',
+	'MAXIMUMSIGNATURELINES_EXT_NAME'		=> 'تحديد عدد سطور التوقيع',
 
 	'MSL_LINES_EXPLAIN'						=> array(
 													1	=> 'يوجد عدد %d سطر محدود.',
@@ -47,5 +47,5 @@ $lang = array_merge($lang, array(
 													1	=> 'توقيعك يحتوي على عدد %1$d سطر.',
 													2	=> 'توقيعك يحتوي على عدد %1$d سطور.',
 												),
-	'TOO_MANY_LINES_LIMIT'					=> 'الحد الأقصى للسطور المسموحة هو %1$d.',
+	'TOO_MANY_LINES_LIMIT'					=> 'الحد الأقصى لعدد السطور المسموح به هو %1$d.',
 ));
